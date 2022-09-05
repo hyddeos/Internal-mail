@@ -1,4 +1,4 @@
-# Internal-mail
+# Internal-mail-client
 
 ## CS50web, Project 3
 A Django and Javascript project where users register and mail each other.
