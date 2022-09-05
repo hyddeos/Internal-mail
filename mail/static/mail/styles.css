@@ -1,0 +1,40 @@
+textarea {
+    min-height: 400px;
+}
+
+.mailbox {
+    height: 80px;
+    border: solid 1px black;
+    margin-bottom: 5px;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.mailbox:hover {
+    background-color: lightgreen;
+    cursor: pointer;
+}
+
+.viewedmail {
+    background-color: lightgray;
+}
+
+.databox {
+    width: 100%;
+}
+
+.datamessage {
+    min-height: 400px;
+    border: solid 1px black;
+    padding: 5px;
+}
+
+.databuttons {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
