@@ -10,7 +10,7 @@ See if mail is new or already has been read
 Archive and unarchive mail
 View inbox aswell as archived mail
 
-[![Watch it in action]](https://www.youtube.com/watch?v=wyXmBMjivA0)
+[![Watch it in action](https://www.youtube.com/watch?v=wyXmBMjivA0)]
 
 This was the third project in the in the Harvard cs50web course.
 
